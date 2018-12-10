@@ -71,10 +71,9 @@
                         <a href="{{ route('register') }}">Register</a>
                 </div>
 
-
             <div class="content">
                 <div class="title m-b-md">
-                    you are nwo in bb.b1
+                    your are now in bb.b2
                 </div>
             </div>
         </div>
